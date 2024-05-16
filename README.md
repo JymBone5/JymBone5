@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jonathanyorkbarnes@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1wjLhaPEBoJYEM-kY_Z7t0KayoBQEqBm2/edit?usp=sharing&ouid=113242853041207202180&rtpof=true&sd=true](https://docs.google.com/document/d/1wjLhaPEBoJYEM-kY_Z7t0KayoBQEqBm2/edit?usp=sharing&ouid=113242853041207202180&rtpof=true&sd=true)
+- 📄 Know about my experiences ![<Resume>](https://img.shields.io/badge/<Resume>-<Red>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) [https://docs.google.com/document/d/1wjLhaPEBoJYEM-kY_Z7t0KayoBQEqBm2/edit?usp=sharing&ouid=113242853041207202180&rtpof=true&sd=true](https://docs.google.com/document/d/1wjLhaPEBoJYEM-kY_Z7t0KayoBQEqBm2/edit?usp=sharing&ouid=113242853041207202180&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
